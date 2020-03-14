@@ -1,0 +1,61 @@
+{
+    "projects": [
+                 {
+                 "id": 0,
+                 "project_name": "Public API Requests",
+                 "description": "An app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other.",
+                 "technologies": [
+                                  "APIs",
+                                  "jQuery",
+                                  "JavaScript",
+                                  "JSON objects"
+                                 ],
+                 "live_link": "https://andreav89.github.io/Javascript-Project-5/",
+                 "github_link": "https://github.com/AndreaV89/Javascript-Project-5",
+                 "image_urls": [
+                                "/static/images/project_5_main.jpg",
+                                "/static/images/project_5_1.jpg",
+                                "/static/images/project_5_2.jpg",
+                                "/static/images/project_5_3.jpg"
+                               ]  
+                 },
+                 {
+                 "id": 1,
+                 "project_name": "OOP Game Show App",
+                 "description": "Browser-based, word guessing game: 'Phrase Hunter.'",
+                 "technologies": [
+                                  "JavaScript",
+                                  "Object-Oriented Programming",
+                                  "JavaScript Classes"
+                                 ],
+                 "live_link": "https://andreav89.github.io/Javascript-Project-4/",
+                 "github_link": "https://github.com/AndreaV89/Javascript-Project-4",
+                 "image_urls": [
+                                "/static/images/project_4_main.jpg",
+                                "/static/images/project_4_1.jpg",
+                                "/static/images/project_4_2.jpg",
+                                "/static/images/project_4_3.jpg"
+                               ]
+                 },
+                 {
+                 "id": 2,
+                 "project_name": "Interactive Form",
+                 "description": "An interactive registration form for a fictional conference called 'FullStack Conf.'",
+                 "technologies": [
+                                  "JavaScript",
+                                  "HTML Forms",
+                                  "Form Validation",
+                                  "Regex",
+                                  "CSS"
+                                 ],
+                 "live_link": "https://andreav89.github.io/Javascript-Project-3/",
+                 "github_link": "https://github.com/AndreaV89/Javascript-Project-3",
+                 "image_urls": [
+                                "/static/images/project_3_main.jpg",
+                                "/static/images/project_3_1.jpg",
+                                "/static/images/project_3_2.jpg",
+                                "/static/images/project_3_3.jpg"
+                 ]
+                 }
+    ]
+}
