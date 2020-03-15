@@ -55,7 +55,44 @@
                                 "/static/images/project_3_1.jpg",
                                 "/static/images/project_3_2.jpg",
                                 "/static/images/project_3_3.jpg"
-                 ]
-                 }
+                               ]
+                 },
+                 {
+                    "id": 3,
+                    "project_name": "List Pagination and Filtering",
+                    "description": "This is a program to better display a long list of student information. It display 10 names at a time, and add a navigation system.",
+                    "technologies": [
+                                     "JavaScript",
+                                     "Progressive enhancement",
+                                     "Unobtrusive JavaScript",
+                                     "DOM"
+                                    ],
+                    "live_link": "https://andreav89.github.io/Javascript-Project-2/",
+                    "github_link": "https://github.com/AndreaV89/Javascript-Project-2",
+                    "image_urls": [
+                                   "/static/images/project_2_main.jpg",
+                                   "/static/images/project_2_1.jpg",
+                                   "/static/images/project_2_2.jpg",
+                                   "/static/images/project_2_3.jpg"
+                                  ]
+                    },
+                    {
+                        "id": 4,
+                        "project_name": "Random Quote Generator",
+                        "description": "A program that displays a randomly selected quote each time the user clicks a button.",
+                        "technologies": [
+                                         "JavaScript",
+                                         "Array",
+                                         "Loops"
+                                        ],
+                        "live_link": "https://andreav89.github.io/Javascript-Project-1/",
+                        "github_link": "https://github.com/AndreaV89/Javascript-Project-1",
+                        "image_urls": [
+                                       "/static/images/project_1_main.jpg",
+                                       "/static/images/project_1_1.jpg",
+                                       "/static/images/project_1_2.jpg",
+                                       "/static/images/project_1_3.jpg"
+                                      ]
+                    }
     ]
 }
